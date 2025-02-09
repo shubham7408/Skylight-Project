@@ -1,0 +1,19 @@
+* {
+  font-family: "satoshi", sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#box {
+  background-color: #37393620;
+  border-radius: 20px;
+  /* border: 1px solid rgb(137, 134, 134); */
+}
+
+#main {
+  padding: "10px";
+  background-color: #232423;
+}

@@ -1,0 +1,344 @@
+{
+  "Critical": [
+    {
+      "session_name": "CLG0301-NSR12-RT04_C_N_T_0",
+      "packet_lost_perc": 0,
+      "delay_variation": 0.0
+    },
+    {
+      "session_name": "HLG0068-NSRA4-RT01_C_N_T_0",
+      "packet_lost_perc": 0.3345636069143146,
+      "delay_variation": 20.547619047619047
+    },
+    {
+      "session_name": "LG0199_R_Z_T_0",
+      "packet_lost_perc": 0.3231324843185706,
+      "delay_variation": 22.613636363636363
+    },
+    {
+      "session_name": "LG0226_R_Z_T_0",
+      "packet_lost_perc": 0.3421923120793886,
+      "delay_variation": 24.045454545454547
+    },
+    {
+      "session_name": "LG0595_R_Z_T_0",
+      "packet_lost_perc": 0.3078794328936866,
+      "delay_variation": 23.59090909090909
+    },
+    {
+      "session_name": "LG0789_R_Z_T_0",
+      "packet_lost_perc": 0,
+      "delay_variation": 0.0
+    },
+    {
+      "session_name": "LG0792_R_Z_T_0",
+      "packet_lost_perc": 0,
+      "delay_variation": 0.0
+    },
+    {
+      "session_name": "LG2362_R_Z_T_0",
+      "packet_lost_perc": 0,
+      "delay_variation": 0.0
+    },
+    {
+      "session_name": "LG2406_R_Z_T_0",
+      "packet_lost_perc": 0,
+      "delay_variation": 0.0
+    },
+    {
+      "session_name": "LG2981_R_Z_T_0",
+      "packet_lost_perc": 0.3192945111753079,
+      "delay_variation": 41.29545454545455
+    },
+    {
+      "session_name": "LG3142_R_Z_T_0",
+      "packet_lost_perc": 0.3002432350258437,
+      "delay_variation": 55.40909090909091
+    },
+    {
+      "session_name": "LG3145_R_Z_T_0",
+      "packet_lost_perc": 0,
+      "delay_variation": 0.0
+    },
+    {
+      "session_name": "LG3388_R_Z_T_0",
+      "packet_lost_perc": 0,
+      "delay_variation": 0.0
+    },
+    {
+      "session_name": "LG3391_R_Z_T_0",
+      "packet_lost_perc": 0.3325567039050521,
+      "delay_variation": 21.404761904761905
+    },
+    {
+      "session_name": "LG3983_R_Z_T_0",
+      "packet_lost_perc": 0,
+      "delay_variation": 0.0
+    },
+    {
+      "session_name": "LG4298_R_Z_T_0",
+      "packet_lost_perc": 0.31858548046672774,
+      "delay_variation": 19.476190476190474
+    },
+    {
+      "session_name": "LG8003_R_Z_T_0",
+      "packet_lost_perc": 0,
+      "delay_variation": 0.0
+    },
+    {
+      "session_name": "LG8015_R_Z_T_0",
+      "packet_lost_perc": 0,
+      "delay_variation": 0.0
+    },
+    {
+      "session_name": "LG8021_R_Z_T_0",
+      "packet_lost_perc": 0,
+      "delay_variation": 0.0
+    },
+    {
+      "session_name": "LG9127_R_Z_T_0",
+      "packet_lost_perc": 0,
+      "delay_variation": 0.0
+    },
+    {
+      "session_name": "LLG2362-NSASK12-RT01_C_N_T_0",
+      "packet_lost_perc": 0,
+      "delay_variation": 0.0
+    },
+    {
+      "session_name": "LLG3388-NSASK12-RT01_C_N_T_0",
+      "packet_lost_perc": 0,
+      "delay_variation": 0.0
+    },
+    {
+      "session_name": "LLG8003-NSASK12-RT01_C_N_T_0",
+      "packet_lost_perc": 0,
+      "delay_variation": 0.0
+    }
+  ],
+  "Major": [
+    {
+      "session_name": "HLG0111-NSRA4-RT01_C_N_T_0",
+      "packet_lost_perc": 0.2879626312087795,
+      "delay_variation": 19.976190476190474
+    }
+  ],
+  "Minor": [],
+  "Normal": [
+    {
+      "session_name": "CLG0279-NSR12-RT01_C_N_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 14.380952380952381
+    },
+    {
+      "session_name": "CLG0279-NSR12-RT02_C_N_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 11.476190476190476
+    },
+    {
+      "session_name": "CLG0279-NSR12-RT03_C_N_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 22.285714285714285
+    },
+    {
+      "session_name": "CLG0279-NSR12-RT04_C_N_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 21.285714285714285
+    },
+    {
+      "session_name": "CLG0301-NSR12-RT03_C_N_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 13.5
+    },
+    {
+      "session_name": "HLG0013-NSASM-RT01_C_N_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 17.0
+    },
+    {
+      "session_name": "HLG0042-NSRA4-RT00_C_N_T_0",
+      "packet_lost_perc": 0.0013232414121632351,
+      "delay_variation": 26.357142857142858
+    },
+    {
+      "session_name": "HLG0164-NSRA4-RT01_C_N_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 16.952380952380953
+    },
+    {
+      "session_name": "HLG0226-NSRA4-RT01_C_N_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 17.452380952380953
+    },
+    {
+      "session_name": "HLG0493-NSASM-RT01_C_N_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 390.57142857142856
+    },
+    {
+      "session_name": "HLG0814-NSAR8-RT01_C_N_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 16.738095238095237
+    },
+    {
+      "session_name": "LG0042_R_Z_T_0",
+      "packet_lost_perc": 0.003789744950164854,
+      "delay_variation": 18.5
+    },
+    {
+      "session_name": "LG0068_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 18.204545454545453
+    },
+    {
+      "session_name": "LG0097_R_Z_T_0",
+      "packet_lost_perc": 0.015159554309103311,
+      "delay_variation": 25.295454545454547
+    },
+    {
+      "session_name": "LG0111_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 22.5
+    },
+    {
+      "session_name": "LG0164_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 66.20454545454545
+    },
+    {
+      "session_name": "LG0171_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 29.272727272727273
+    },
+    {
+      "session_name": "LG0402_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 47.90909090909091
+    },
+    {
+      "session_name": "LG0493_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 19.727272727272727
+    },
+    {
+      "session_name": "LG0788_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 27.34090909090909
+    },
+    {
+      "session_name": "LG0790_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 25.34090909090909
+    },
+    {
+      "session_name": "LG0814_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 20.386363636363637
+    },
+    {
+      "session_name": "LG0815_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 21.772727272727273
+    },
+    {
+      "session_name": "LG1058_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 17.25
+    },
+    {
+      "session_name": "LG2159_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 27.34090909090909
+    },
+    {
+      "session_name": "LG2500_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 19.69047619047619
+    },
+    {
+      "session_name": "LG2537_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 49.20454545454545
+    },
+    {
+      "session_name": "LG2887_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 15.119047619047619
+    },
+    {
+      "session_name": "LG2889_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 31.113636363636363
+    },
+    {
+      "session_name": "LG3370_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 39.65909090909091
+    },
+    {
+      "session_name": "LG3387_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 21.261904761904763
+    },
+    {
+      "session_name": "LG3860_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 73.11904761904762
+    },
+    {
+      "session_name": "LG4085_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 46.06818181818182
+    },
+    {
+      "session_name": "LG4185_R_Z_T_0",
+      "packet_lost_perc": 0.00992614944810609,
+      "delay_variation": 37.26190476190476
+    },
+    {
+      "session_name": "LG4198_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 17.595238095238095
+    },
+    {
+      "session_name": "LG9002_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 60.65909090909091
+    },
+    {
+      "session_name": "LG9118_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 39.54545454545455
+    },
+    {
+      "session_name": "LG9144_R_Z_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 39.59090909090909
+    },
+    {
+      "session_name": "LLG2537-NSARAX-RT01_C_N_T_0",
+      "packet_lost_perc": 0.014557196548621037,
+      "delay_variation": 111.42857142857143
+    },
+    {
+      "session_name": "LLG2889-NSASK12-RT01_C_N_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 39.666666666666664
+    },
+    {
+      "session_name": "LLG2981-NSASK12-RT01_C_N_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 109.80952380952381
+    },
+    {
+      "session_name": "LLG3142-NSASK12-RT01_C_N_T_0",
+      "packet_lost_perc": 0.0013232414121632351,
+      "delay_variation": 107.83333333333333
+    },
+    {
+      "session_name": "LLG3370-NSASK12-RT01_C_N_T_0",
+      "packet_lost_perc": 0.0,
+      "delay_variation": 63.714285714285715
+    }
+  ]
+}

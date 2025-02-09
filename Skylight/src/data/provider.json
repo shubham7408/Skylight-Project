@@ -1,0 +1,10 @@
+{
+    "airtel": {
+        "packet_loss_perc": 11.094204257284517,
+        "delay_variation": 10471.450323918114
+    },
+    "cisco": {
+        "packet_loss_perc": 11.28202038417127,
+        "delay_variation": 9708.488160064722
+    }
+}
